@@ -1,8 +1,9 @@
 # Renaud Dessalles' Webpage
+<div align="right">![MyPhoto](./images/dessalles-180x180.jpg)</div>
 
 ## Presentation
 
-I'm Doctor at INRA and currently a visiting researcher at the laboratory of Biomathematics of UCLA. I'm currently working on the modeling of the immune responses to antigens. My main interested consist in mathematical and computational modeling applied to biology, using mainly (but not exclusively) stochastic models. During my PhD in applied mathematics at INRA and INRIA (France), I worked on the stochastic modeling of protein production inside bacteria. My main skills consist of the analysis of stochastic and deterministic models and the use of several computational language (Python, C++, Matlab, Julia) for simulations.
+I'm PhD researcher at [MaIAGE](http://maiage.jouy.inra.fr/) (INRA — Jouy-en-Josas — France) and currently a visiting researcher at the laboratory of [Biomathematics of UCLA](http://biomath.ucla.edu/). I'm currently working on the modeling of the immune responses to antigens. My main interested consist in mathematical and computational modeling applied to biology, using mainly (but not exclusively) stochastic models. During my PhD in applied mathematics at INRA and INRIA (France), I worked on the stochastic modeling of protein production inside bacteria. My main skills consist of the analysis of stochastic and deterministic models and the use of several computational language (Python, C++, Matlab, Julia) for simulations.
 
 ## Publications
 * Dessalles, R., Fromion, V., & Robert, P. (2017). A stochastic analysis of autoregulation of gene expression. Journal of mathematical biology, 75(5), 1253-1283. [Journal's page](https://link.springer.com/article/10.1007/s00285-017-1116-7), [ArXiv's version](https://arxiv.org/abs/1509.02045)
