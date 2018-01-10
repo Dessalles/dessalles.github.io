@@ -15,10 +15,10 @@ I'm PhD researcher at [MaIAGE](http://maiage.jouy.inra.fr/) (INRA — Jouy-en-Jo
 ## Selected Presentations
 Relative to the article *A stochastic analysis of autoregulation of gene expression.*
 * INFORMS Applied Probability Conference (July 2015)
-* Les probabilités de demain (May 2016) (http://www.lesprobabilitesdedemain.fr/): [Video](https://www.youtube.com/watch?v=gbVSSXbVCZw&t)
+* Les probabilités de demain (May 2016) (<http://www.lesprobabilitesdedemain.fr/>): [Video](https://www.youtube.com/watch?v=gbVSSXbVCZw&t)
 
 Relative to the article *Probabilistic and Piecewise Deterministic models in Biology.*
-* Journées Modélisation Aléatoire et Statistique (August 2016) (http://mas2016.sciencesconf.org/)
+* Journées Modélisation Aléatoire et Statistique (August 2016) (<http://mas2016.sciencesconf.org/>)
 
 Relative to the article *Models of protein production with cell cycle.*
 * UCLA Biomathematics Seminar (October 2017)
