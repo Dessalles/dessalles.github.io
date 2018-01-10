@@ -1,5 +1,5 @@
 # Renaud Dessalles' Webpage
-<div align="right">!<img src="./images/dessalles-180x180.jpg" alt="Renaud Dessalles photo"></div>
+<div align="right"><img src="./images/dessalles-180x180.jpg" alt="Renaud Dessalles photo"></div>
 
 ## Presentation
 
