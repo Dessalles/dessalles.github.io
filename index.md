@@ -8,7 +8,7 @@ order: 1
 
 ## Presentation
 
-I'm PhD researcher at [MaIAGE](http://maiage.jouy.inra.fr/) (INRA — Jouy-en-Josas — France) and currently a visiting researcher at the laboratory of [Biomathematics of UCLA](http://biomath.ucla.edu/). I'm currently working on the modeling of the immune responses to antigens. My main interested consist in mathematical and computational modeling applied to biology, using mainly (but not exclusively) stochastic models. During my PhD in applied mathematics at INRA and INRIA (France), I worked on the stochastic modeling of protein production inside bacteria. My main skills consist of the analysis of stochastic and deterministic models and the use of several computational language (Python, C++, Matlab, Julia) for simulations.
+I'm a researcher at [MaIAGE](http://maiage.jouy.inra.fr/) (INRA — Jouy-en-Josas — France) and currently a visiting researcher at the laboratory of [Biomathematics of UCLA](http://biomath.ucla.edu/). I'm currently working on the modeling of the immune responses to antigens. My main interested consist in mathematical and computational modeling applied to biology, using mainly (but not exclusively) stochastic models. During my PhD in applied mathematics at INRA and INRIA (France), I worked on the stochastic modeling of protein production inside bacteria. My main skills consist of the analysis of stochastic and deterministic models and the use of several computational language (Python, C++, Matlab, Julia) for simulations.
 
 Look at my [Resume](./CV_Dessalles.pdf).
 
@@ -34,8 +34,9 @@ Relative to the article *Models of protein production with cell cycle.*
 ## Teaching
 * Certificat informatique et internet (Computer and Internet Certificate – C2I) at IUT-Sceaux (France) [course's page](https://team.inria.fr/rap/members/dessalles/enseignement-iut/)
 * Teaching Assistant of Mathematics Discussion Section at at IUT-Sceaux (France)
-* [UCLA's Collaboratory](https://qcb.ucla.edu/collaboratory/people/)'s Python Intorduction Workshop: [workshop's page](https://github.com/QCB-Collaboratory/W9.Python)
-* [UCLA's Collaboratory](https://qcb.ucla.edu/collaboratory/people/)'s Python Hackathon: [hakathon's page](https://github.com/QCB-Collaboratory/Python-Hackathon-Fall2017/tree/master/Materials_Resources)
+* [UCLA's Collaboratory](https://qcb.ucla.edu/collaboratory/)'s Python Intorduction Workshop: [workshop's page](https://github.com/QCB-Collaboratory/W9.Python)
+* [UCLA's Collaboratory](https://qcb.ucla.edu/collaboratory/)'s Machine Learning with Python Workshop: [workshop's page](https://github.com/QCB-Collaboratory/W17.MachineLearning)
+* [UCLA's Collaboratory](https://qcb.ucla.edu/collaboratory/)'s Python Hackathon: [hakathon's page](https://github.com/QCB-Collaboratory/Python-Hackathon-Fall2017/tree/master/Materials_Resources)
 
 ## Also…
 
