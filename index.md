@@ -17,6 +17,9 @@ Look at my [Resume](./CV_Dessalles.pdf).
 * Dessalles, R. (2017). Stochastic models for protein production: the impact of autoregulation, cell cycle and protein production interactions on gene expression (Doctoral dissertation, École Polytechnique). [Hal's version](https://tel.archives-ouvertes.fr/tel-01482087/)
 * Cloez, B., Dessalles, R., Genadot, A., Malrieu, F., Marguet, A., & Yvinec, R. (2017). Probabilistic and Piecewise Deterministic models in Biology. ESAIM: Proceedings and Surveys, 60, 225-245. [Journal's page](https://www.esaim-proc.org/articles/proc/abs/2017/05/proc186012/proc186012.html), [ArXiv's version](https://arxiv.org/abs/1706.09163)
 * Dessalles, R., Fromion, V., & Robert, P. (2018). Models of protein production with cell cycle. arXiv preprint arXiv:1711.06378. [ArXiv's version](https://arxiv.org/abs/1711.06378)
+* Dessalles, R., D’Orsogna, M., and Chou, T. (2018). Exact steady-state distributions of multispecies birth-death-immigration processes: effects of mutations and carrying capacity on diversity. ArXiv:1806.00105 [Math, q-Bio] [ArXiv's version](https://arxiv.org/abs/1806.00105).
+
+
 
 
 ## Selected Presentations
