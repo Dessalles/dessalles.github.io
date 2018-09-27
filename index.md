@@ -4,7 +4,7 @@ title: Renaud Dessalles' Webpage
 order: 1
 ---
 
-<div align="right"><img src="./images/P1130941_small.JPG" alt="Renaud Dessalles photo"></div>
+<div align="right"><img width="180" src="./images/P1130941_small.JPG" alt="Renaud Dessalles photo"></div>
 
 ## Presentation
 
