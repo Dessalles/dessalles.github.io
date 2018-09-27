@@ -4,10 +4,10 @@ title: Renaud Dessalles' Webpage
 order: 1
 ---
 
-<div align="right"><img width="180" src="./images/P1130941_small.JPG" alt="Renaud Dessalles photo"></div>
 
 ## Presentation
 
+<img width="180" align="right" src="./images/P1130941_small.JPG" alt="Renaud Dessalles photo">
 I'm a researcher at [MaIAGE](http://maiage.jouy.inra.fr/) (INRA — Jouy-en-Josas — France) and currently a visiting researcher at the laboratory of [Biomathematics of UCLA](http://biomath.ucla.edu/). I'm currently working on the modeling of the immune responses to antigens. My main interested consist in mathematical and computational modeling applied to biology, using mainly (but not exclusively) stochastic models. During my PhD in applied mathematics at INRA and INRIA (France), I worked on the stochastic modeling of protein production inside bacteria. My main skills consist of the analysis of stochastic and deterministic models and the use of several computational language (Python, C++, Matlab, Julia) for simulations.
 
 Look at my [Resume](./CV_Dessalles.pdf).
