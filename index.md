@@ -13,11 +13,14 @@ I'm a researcher at [MaIAGE](http://maiage.jouy.inra.fr/) (INRA — Jouy-en-Josa
 Look at my [Resume](./CV_Dessalles.pdf).
 
 ## Publications
-* Dessalles, R., Fromion, V., & Robert, P. (2017). A stochastic analysis of autoregulation of gene expression. Journal of mathematical biology, 75(5), 1253-1283. [Journal's page](https://link.springer.com/article/10.1007/s00285-017-1116-7), [ArXiv's version](https://arxiv.org/abs/1509.02045)
-* Dessalles, R. (2017). Stochastic models for protein production: the impact of autoregulation, cell cycle and protein production interactions on gene expression (Doctoral dissertation, École Polytechnique). [Hal's version](https://tel.archives-ouvertes.fr/tel-01482087/)
-* Cloez, B., Dessalles, R., Genadot, A., Malrieu, F., Marguet, A., & Yvinec, R. (2017). Probabilistic and Piecewise Deterministic models in Biology. ESAIM: Proceedings and Surveys, 60, 225-245. [Journal's page](https://www.esaim-proc.org/articles/proc/abs/2017/05/proc186012/proc186012.html), [ArXiv's version](https://arxiv.org/abs/1706.09163)
-* Dessalles, R., Fromion, V., & Robert, P. (2018). Models of protein production with cell cycle. arXiv preprint arXiv:1711.06378. [ArXiv's version](https://arxiv.org/abs/1711.06378)
+
 * Dessalles, R., D’Orsogna, M., and Chou, T. (2018). Exact Steady-State Distributions of Multispecies Birth–Death–Immigration Processes: Effects of Mutations and Carrying Capacity on Diversity. J Stat Phys. [Journal's page](https://link.springer.com/article/10.1007/s10955-018-2128-4), [ArXiv's version](https://arxiv.org/abs/1806.00105).
+* Dessalles, R., Fromion, V., & Robert, P. (2018). Models of protein production with cell cycle. arXiv preprint arXiv:1711.06378. [ArXiv's version](https://arxiv.org/abs/1711.06378)
+* Cloez, B., Dessalles, R., Genadot, A., Malrieu, F., Marguet, A., & Yvinec, R. (2017). Probabilistic and Piecewise Deterministic models in Biology. ESAIM: Proceedings and Surveys, 60, 225-245. [Journal's page](https://www.esaim-proc.org/articles/proc/abs/2017/05/proc186012/proc186012.html), [ArXiv's version](https://arxiv.org/abs/1706.09163)
+* Dessalles, R. (2017). Stochastic models for protein production: the impact of autoregulation, cell cycle and protein production interactions on gene expression (Doctoral dissertation, École Polytechnique). [Hal's version](https://tel.archives-ouvertes.fr/tel-01482087/)
+* Dessalles, R., Fromion, V., & Robert, P. (2017). A stochastic analysis of autoregulation of gene expression. Journal of mathematical biology, 75(5), 1253-1283. [Journal's page](https://link.springer.com/article/10.1007/s00285-017-1116-7), [ArXiv's version](https://arxiv.org/abs/1509.02045)
+
+
 
 
 
@@ -46,3 +49,7 @@ Relative to the article *Models of protein production with cell cycle.*
 During my spare time, I'm an editor of the online Magazine [Kinea](http://kinea.media): a plurilingual magazine showing proposing rigorous political and economical analyses but also natural, social and human science popularization.
 
 I also program open source softwares such as [AthenaWriter](https://github.com/grumpfou/AthenaWriter), a short stories word processor.
+
+## Contact
+
+Either <img alt='Address 1' style="height: 1em ;" src="./images/adr.jpeg"> or <img alt='Address 2' style="height: 1em ;" src="./images/adr1.jpeg">
