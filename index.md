@@ -13,6 +13,12 @@ I'm a researcher at [MaIAGE](http://maiage.jouy.inra.fr/) (INRA — Jouy-en-Josa
 - My [Resume in English](./CV_Dessalles_Renaud_en.pdf).
 - Mon [Curriculum Vitae en Français](./CV_Dessalles_Renaud_fr.pdf).
 
+## Ongoing collaborations and projects
+
+- With [T. Chou (UCLA – Biomathematics)](https://tchou.faculty.biomath.ucla.edu/) and [M.  D’Orsogna (CSUN – Math Department)](http://www.csun.edu/~dorsogna/): Stochastic models for T-cell diversity.
+- With [A. Sadier (UCLA – Sears lab)](https://searslab.eeb.ucla.edu/members/): Reaction diffusion models in the teeth development in bats.
+- With [Julie Miller (UCLA – Pinter-Wollman Lab)](https://pinterwollmanlab.eeb.ucla.edu/people/) Statistic model for ant foraging.
+
 ## Publications
 
 * Dessalles, R., D’Orsogna, M., and Chou, T. (2018). Exact Steady-State Distributions of Multispecies Birth–Death–Immigration Processes: Effects of Mutations and Carrying Capacity on Diversity. J Stat Phys. [Journal's page](https://link.springer.com/article/10.1007/s10955-018-2128-4), [ArXiv's version](https://arxiv.org/abs/1806.00105).
@@ -37,6 +43,11 @@ Relative to the article *Probabilistic and Piecewise Deterministic models in Bio
 Relative to the article *Models of protein production with cell cycle.*
 * UCLA Biomathematics Seminar (October 2017)
 
+Relative to the article *Exact Steady-State Distributions of Multispecies Birth–Death–Immigration Processes*
+* APS March Meeting (March 2018)
+
+
+
 
 ## Teaching
 * Certificat informatique et internet (Computer and Internet Certificate – C2I) at IUT-Sceaux (France) [course's page](https://team.inria.fr/rap/members/dessalles/enseignement-iut/)
@@ -47,7 +58,7 @@ Relative to the article *Models of protein production with cell cycle.*
 
 ## Also…
 
-During my spare time, I'm an editor of the online Magazine [Kinea](http://kinea.media): a plurilingual magazine showing proposing rigorous political and economical analyses but also natural, social and human science popularization.
+During my spare time, I'm an editor of the online Magazine [Kinea](http://kinea.media): a plurilingual magazine proposing rigorous political and economical analyses but also natural, social and human science popularization.
 
 I also program open source softwares such as [AthenaWriter](https://github.com/grumpfou/AthenaWriter), a short stories word processor.
 
