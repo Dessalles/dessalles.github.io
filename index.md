@@ -44,7 +44,7 @@ Relative to the article *Models of protein production with cell cycle.*
 * UCLA Biomathematics Seminar (October 2017)
 
 Relative to the article *Exact Steady-State Distributions of Multispecies Birth–Death–Immigration Processes*
-* APS March Meeting (March 2018)
+* APS March Meeting (March 2018) (<https://meetings.aps.org/Meeting/MAR18/Session/P49.10>)
 
 
 
@@ -53,7 +53,10 @@ Relative to the article *Exact Steady-State Distributions of Multispecies Birth�
 * Certificat informatique et internet (Computer and Internet Certificate – C2I) at IUT-Sceaux (France) [course's page](https://team.inria.fr/rap/members/dessalles/enseignement-iut/)
 * Teaching Assistant of Mathematics Discussion Section at at IUT-Sceaux (France)
 * [UCLA's Collaboratory](https://qcb.ucla.edu/collaboratory/)'s Python Intorduction Workshop: [workshop's page](https://github.com/QCB-Collaboratory/W9.Python)
-* [UCLA's Collaboratory](https://qcb.ucla.edu/collaboratory/)'s Machine Learning with Python Workshop: [workshop's page](https://github.com/QCB-Collaboratory/W17.MachineLearning)
+* [UCLA's Collaboratory](https://qcb.ucla.edu/collaboratory/)'s Machine Learning with Python Workshop:
+	* [Workshop's page](https://github.com/QCB-Collaboratory/W17.MachineLearning)
+	* Slides: [Day 1](https://drive.google.com/file/d/12FTwaXU8m_H6SXbeY2gmq0WLVceaXtOJ/view?usp=sharing), [Day 2](https://drive.google.com/file/d/1qKNwowukfbEU-EPk6iizUqnIobbJv8Vy/view?usp=sharing), [Day 3](https://drive.google.com/file/d/1o3_pmaoWtyQE_cxZ-qj4hmRfmGTovNZA/view?usp=sharing)
+	* Videos: [Day 1](https://www.youtube.com/watch?v=7Iy1BylhlSE), [Day 2](https://www.youtube.com/watch?v=6bxlABMc-10), [Day 3](https://www.youtube.com/watch?v=NSXwh5BFIls)
 * [UCLA's Collaboratory](https://qcb.ucla.edu/collaboratory/)'s Python Hackathon: [hakathon's page](https://github.com/QCB-Collaboratory/Python-Hackathon-Fall2017/tree/master/Materials_Resources)
 
 ## Also…
