@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Renaud Dessalles' Webpage
 order: 1
 ---
@@ -61,7 +61,7 @@ Under the Github account [Grumpfou](https://github.com/grumpfou/) I have created
 * **RFigure**: software created to as tool for my professional work. **RFigure** that allows to
 store data and instructions that allow the production of Matplotlib
 instructions. Sources and download are available on Github: [source
-code](https://github.com/grumpfou/RFigure).
+code](https://github.com/grumpfou/RFigure). See also [this blog post]({% post_url 2019-04-04-About-RFigure %})
 
 * **AthenaWriter**: an open source softwares such as [AthenaWriter](https://github.com/grumpfou/AthenaWriter), a short stories word processor.
 
