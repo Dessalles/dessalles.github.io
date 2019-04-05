@@ -21,17 +21,18 @@ I'm finishing my postdoc (visiting researcher) at the laboratory of [Biomathemat
 
 ## Publications
 
-* Dessalles, R., D’Orsogna, M., and Chou, T. (2018). Exact Steady-State Distributions of Multispecies Birth–Death–Immigration Processes: Effects of Mutations and Carrying Capacity on Diversity. J Stat Phys. [Journal's page](https://link.springer.com/article/10.1007/s10955-018-2128-4), [ArXiv's version](https://arxiv.org/abs/1806.00105).
-* Dessalles, R., Fromion, V., & Robert, P. (2019). Models of protein production with cell cycle. arXiv preprint arXiv:1711.06378. [ArXiv's version](https://arxiv.org/abs/1711.06378) (under review)
-* Cloez, B., Dessalles, R., Genadot, A., Malrieu, F., Marguet, A., & Yvinec, R. (2017). Probabilistic and Piecewise Deterministic models in Biology. ESAIM: Proceedings and Surveys, 60, 225-245. [Journal's page](https://www.esaim-proc.org/articles/proc/abs/2017/05/proc186012/proc186012.html), [ArXiv's version](https://arxiv.org/abs/1706.09163)
+* Dessalles, R., D’Orsogna, M., and Chou, T. (2018). Exact Steady-State Distributions of Multispecies Birth–Death–Immigration Processes: Effects of Mutations and Carrying Capacity on Diversity. J Stat Phys. [Journal's page
+📰](https://link.springer.com/article/10.1007/s10955-018-2128-4), [Arχiv's version](https://arxiv.org/abs/1806.00105).
+* Dessalles, R., Fromion, V., & Robert, P. (2019). Models of protein production with cell cycle. arXiv preprint arXiv:1711.06378. [Arχiv's version](https://arxiv.org/abs/1711.06378) (under review)
+* Cloez, B., Dessalles, R., Genadot, A., Malrieu, F., Marguet, A., & Yvinec, R. (2017). Probabilistic and Piecewise Deterministic models in Biology. ESAIM: Proceedings and Surveys, 60, 225-245. [Journal's page 📰](https://www.esaim-proc.org/articles/proc/abs/2017/05/proc186012/proc186012.html), [Arχiv's version](https://arxiv.org/abs/1706.09163)
 * Dessalles, R. (2017). Stochastic models for protein production: the impact of autoregulation, cell cycle and protein production interactions on gene expression (Doctoral dissertation, École Polytechnique). [Hal's version](https://tel.archives-ouvertes.fr/tel-01482087/)
-* Dessalles, R., Fromion, V., & Robert, P. (2017). A stochastic analysis of autoregulation of gene expression. Journal of mathematical biology, 75(5), 1253-1283. [Journal's page](https://link.springer.com/article/10.1007/s00285-017-1116-7), [ArXiv's version](https://arxiv.org/abs/1509.02045)
+* Dessalles, R., Fromion, V., & Robert, P. (2017). A stochastic analysis of autoregulation of gene expression. Journal of mathematical biology, 75(5), 1253-1283. [Journal's page 📰](https://link.springer.com/article/10.1007/s00285-017-1116-7), [Arχiv's version](https://arxiv.org/abs/1509.02045)
 
 
 ## Selected Presentations
 Relative to the article *A stochastic analysis of autoregulation of gene expression.*
 * INFORMS Applied Probability Conference (July 2015)
-* Les probabilités de demain (May 2016) (<http://www.lesprobabilitesdedemain.fr/>): [Video](https://www.youtube.com/watch?v=gbVSSXbVCZw&t)
+* Les probabilités de demain (May 2016) (<http://www.lesprobabilitesdedemain.fr/>): [Video 🎥](https://www.youtube.com/watch?v=gbVSSXbVCZw&t)
 
 Relative to the article *Probabilistic and Piecewise Deterministic models in Biology.*
 * Journées Modélisation Aléatoire et Statistique (August 2016) (<http://mas2016.sciencesconf.org/>)
@@ -52,7 +53,7 @@ Relative to the article *Exact Steady-State Distributions of Multispecies Birth�
 * [UCLA's Collaboratory](https://qcb.ucla.edu/collaboratory/)'s Machine Learning with Python Workshop:
 	* [Workshop's page](https://github.com/QCB-Collaboratory/W17.MachineLearning)
 	* Slides: [Day 1](https://drive.google.com/file/d/12FTwaXU8m_H6SXbeY2gmq0WLVceaXtOJ/view?usp=sharing), [Day 2](https://drive.google.com/file/d/1qKNwowukfbEU-EPk6iizUqnIobbJv8Vy/view?usp=sharing), [Day 3](https://drive.google.com/file/d/1o3_pmaoWtyQE_cxZ-qj4hmRfmGTovNZA/view?usp=sharing)
-	* Videos: [Day 1](https://www.youtube.com/watch?v=7Iy1BylhlSE), [Day 2](https://www.youtube.com/watch?v=6bxlABMc-10), [Day 3](https://www.youtube.com/watch?v=NSXwh5BFIls)
+	* Videos 🎥: [Day 1](https://www.youtube.com/watch?v=7Iy1BylhlSE), [Day 2](https://www.youtube.com/watch?v=6bxlABMc-10), [Day 3](https://www.youtube.com/watch?v=NSXwh5BFIls)
 * [UCLA's Collaboratory](https://qcb.ucla.edu/collaboratory/)'s Python Hackathon: [hakathon's page](https://github.com/QCB-Collaboratory/Python-Hackathon-Fall2017/tree/master/Materials_Resources)
 
 ## Programming
