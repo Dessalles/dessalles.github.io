@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Renaud Dessalles' Webpage
 email:
-description: 
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username:  dessalles
+github_username:  dessalles, grumpfou
 
 # Build settings
 markdown: kramdown

@@ -8,7 +8,7 @@ order: 1
 ## Presentation
 
 <img width="180" align="right" src="./images/P1130941_small.JPG" alt="Renaud Dessalles photo">
-I'm a visiting researcher at the laboratory of [Biomathematics of UCLA](http://biomath.ucla.edu/). I'm currently working on the modeling of the immune responses to antigens. My main interested consist in mathematical and computational modeling applied to biology, using mainly (but not exclusively) stochastic models. During my PhD in applied mathematics at INRA and INRIA (France), I worked on the stochastic modeling of protein production inside bacteria. My main skills consist of the analysis of stochastic and deterministic models and the use of several computational language (Python, C++, Matlab, Julia) for simulations.
+I'm finishing my postdoc (visiting researcher) at the laboratory of [Biomathematics of UCLA](http://biomath.ucla.edu/). I've werked there on the modeling of the immune responses to antigens. My main interested consist in mathematical and computational modeling applied to biology, using stochastic and determnistic models. During my PhD in applied mathematics at INRA and INRIA (France), I worked on the stochastic modeling of protein production inside bacteria. My main skills consist of the analysis of stochastic and deterministic models and the use of several computational language (Python, C++, Matlab, Julia) for simulations.
 
 - My [Resume in English](./CV_Dessalles_Renaud_en.pdf).
 - Mon [Curriculum Vitae en Français](./CV_Dessalles_Renaud_fr.pdf).
@@ -57,16 +57,17 @@ Relative to the article *Exact Steady-State Distributions of Multispecies Birth�
 
 ## Programming
 
-As a tool for my work, I've programmed the software **RFigure** that allows to
+Under the Github account [Grumpfou](https://github.com/grumpfou/) I have created two main softwares:
+* **RFigure**: software created to as tool for my professional work. **RFigure** that allows to
 store data and instructions that allow the production of Matplotlib
 instructions. Sources and download are available on Github: [source
 code](https://github.com/grumpfou/RFigure).
 
+* **AthenaWriter**: an open source softwares such as [AthenaWriter](https://github.com/grumpfou/AthenaWriter), a short stories word processor.
+
 ## Also…
 
-During my spare time, I'm an editor of the online Magazine [Kinea](http://kinea.media): a plurilingual magazine proposing rigorous political and economical analyses but also natural, social and human science popularization.
-
-I also program open source softwares such as [AthenaWriter](https://github.com/grumpfou/AthenaWriter), a short stories word processor.
+During my spare time, I'm an editor of the online Magazine [Kinea](http://kinea.media): a plurilingual magazine proposing rigorous political and economical an
 
 ## Contact
 
