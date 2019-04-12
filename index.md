@@ -68,7 +68,7 @@ code](https://github.com/grumpfou/RFigure). See also [this blog post]({% post_ur
 
 ## Also…
 
-During my spare time, I'm an editor of the online Magazine [Kinea](http://kinea.media): a plurilingual magazine proposing rigorous political and economical an
+During my spare time, I'm an editor of the online Magazine [Kinea](http://kinea.media): a plurilingual magazine proposing rigorous political and economical analyses but also natural, social and human science popularization.
 
 ## Contact
 
