@@ -8,7 +8,7 @@ order: 1
 ## Presentation
 
 <img width="180" align="right" src="./images/P1130941_small.JPG" alt="Renaud Dessalles photo">
-I'm finishing my postdoc (visiting researcher) at the laboratory of [Biomathematics of UCLA](http://biomath.ucla.edu/). I've werked there on the modeling of the immune responses to antigens. My main interested consist in mathematical and computational modeling applied to biology, using stochastic and determnistic models. During my PhD in applied mathematics at INRA and INRIA (France), I worked on the stochastic modeling of protein production inside bacteria. My main skills consist of the analysis of stochastic and deterministic models and the use of several computational language (Python, C++, Matlab, Julia) for simulations.
+I'm finishing my postdoc (visiting researcher) at the laboratory of [Biomathematics of UCLA](http://biomath.ucla.edu/). I've worked there on the modeling of the immune responses to antigens. My main interested consist in mathematical and computational modeling applied to biology, using stochastic and deterministic models. During my PhD in applied mathematics at INRA and INRIA (France), I worked on the stochastic modeling of protein production inside bacteria. My main skills consist of the analysis of stochastic and deterministic models and the use of several computational language (Python, C++, Matlab, Julia) for simulations.
 
 - My [Resume in English](./CV_Dessalles_Renaud_en.pdf).
 - Mon [Curriculum Vitae en Français](./CV_Dessalles_Renaud_fr.pdf).
