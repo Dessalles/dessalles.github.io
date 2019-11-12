@@ -8,7 +8,7 @@ order: 1
 ## Presentation
 
 <img width="180" align="right" src="./images/P1130941_small.JPG" alt="Renaud Dessalles photo">
-I'm a mathematician specialist, worinking in the field of mathematics applied to agronomy at Greenshield, a greentech startup, where I model the diffusion of pests in fields.
+I'm a mathematician specialist, worinking in the field of mathematics applied to agronomy at Green Shield Technology, a greentech startup, where I model the diffusion of pests in fields.
 
 I've previously worked as a researcher at INRA Jouy-en-Josas (France), INRIA Paris (France), UCLA (USA). My main interested consist in mathematical and computational modeling applied to biology and agronomy, using stochastic and deterministic models. During my PhD in applied mathematics at INRA and INRIA (France), I worked on the stochastic modeling of protein production inside bacteria. At UCLA I've developed models to model the diversity of T-cells in the body. My main skills consist of the analysis of stochastic and deterministic models and the use of several computational language (Python, C++, Matlab, Julia) for simulations.
 
@@ -45,6 +45,9 @@ Relative to the article *Models of protein production with cell cycle.*
 
 Relative to the article *Exact Steady-State Distributions of Multispecies Birth–Death–Immigration Processes*
 * APS March Meeting (March 2018) (<https://meetings.aps.org/Meeting/MAR18/Session/P49.10>)
+
+Relative to the article   *How heterogeneous thymic output and homeostatic proliferation shape naive T cell receptor clone abundance distributions.*
+* APS March Meeting (March 2019) (https://meetings.aps.org/Meeting/MAR19/Session/S63.10)
 
 
 
