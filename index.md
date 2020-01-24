@@ -23,10 +23,10 @@ I've previously worked as a researcher at INRA Jouy-en-Josas (France), INRIA Par
 
 ## Publications
 
-* Dessalles, R., D’Orsogna, M., and Chou, T. (2019). How heterogeneous thymic output and homeostatic proliferation shape naive T cell receptor clone abundance distributions.  [Arχiv's version](https://arxiv.org/abs/1906.07463).
+* Dessalles, R., D’Orsogna, M., and Chou, T. (2019). How heterogeneous thymic output and homeostatic proliferation shape naive T cell receptor clone abundance distributions. [Arχiv's version](https://arxiv.org/abs/1906.07463).
 * Dessalles, R., D’Orsogna, M., and Chou, T. (2018). Exact Steady-State Distributions of Multispecies Birth–Death–Immigration Processes: Effects of Mutations and Carrying Capacity on Diversity. J Stat Phys. [Journal's page
 📰](https://link.springer.com/article/10.1007/s10955-018-2128-4), [Arχiv's version](https://arxiv.org/abs/1806.00105).
-* Dessalles, R., Fromion, V., & Robert, P. (2019). Models of protein production with cell cycle. arXiv preprint arXiv:1711.06378. [Arχiv's version](https://arxiv.org/abs/1711.06378) (under review)
+* Dessalles, R., Fromion, V. & Robert, P. Models of protein production along the cell cycle: An investigation of possible sources of noise. PLOS ONE 15, e0226016 (2020). [Journal's page 📰](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226016) [Arχiv's version](https://arxiv.org/abs/1711.06378).
 * Cloez, B., Dessalles, R., Genadot, A., Malrieu, F., Marguet, A., & Yvinec, R. (2017). Probabilistic and Piecewise Deterministic models in Biology. ESAIM: Proceedings and Surveys, 60, 225-245. [Journal's page 📰](https://www.esaim-proc.org/articles/proc/abs/2017/05/proc186012/proc186012.html), [Arχiv's version](https://arxiv.org/abs/1706.09163)
 * Dessalles, R. (2017). Stochastic models for protein production: the impact of autoregulation, cell cycle and protein production interactions on gene expression (Doctoral dissertation, École Polytechnique). [Hal's version](https://tel.archives-ouvertes.fr/tel-01482087/)
 * Dessalles, R., Fromion, V., & Robert, P. (2017). A stochastic analysis of autoregulation of gene expression. Journal of mathematical biology, 75(5), 1253-1283. [Journal's page 📰](https://link.springer.com/article/10.1007/s00285-017-1116-7), [Arχiv's version](https://arxiv.org/abs/1509.02045)
