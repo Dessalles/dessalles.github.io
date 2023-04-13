@@ -23,6 +23,8 @@ I've previously worked as a researcher at INRA Jouy-en-Josas (France), INRIA Par
 
 ## Publications
 
+* Wang Y., Dessalles R., Chou T. (2022). Modelling the impact of birth control policies on China’s population and age: effects of delayed births and minimum birth age constraints [Journal's page 📰]((https://royalsocietypublishing.org/doi/full/10.1098/rsos.211619) [Arχiv's version](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.211619)
+* Sadier A., Anthwal N., Krause A. L., Dessalles R., Lake M., Bentolila L., Haase R., Nieves N., Santana S., Sears K. (2021). Bat teeth illuminate the diversification of mammalian tooth classes [biorχiv's version](https://www.biorxiv.org/content/10.1101/2021.12.05.471324.abstract)
 * Dessalles, R., D’Orsogna, M., and Chou, T. (2019). How heterogeneous thymic output and homeostatic proliferation shape naive T cell receptor clone abundance distributions. [Arχiv's version](https://arxiv.org/abs/1906.07463). (Under Review)
 * Dessalles, R., Fromion, V. & Robert, P. Models of protein production along the cell cycle: An investigation of possible sources of noise. PLOS ONE 15, e0226016 (2020). [Journal's page 📰](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226016) [Arχiv's version](https://arxiv.org/abs/1711.06378).
 * Dessalles, R., D’Orsogna, M., and Chou, T. (2018). Exact Steady-State Distributions of Multispecies Birth–Death–Immigration Processes: Effects of Mutations and Carrying Capacity on Diversity. J Stat Phys. [Journal's page
