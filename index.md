@@ -67,13 +67,15 @@ Relative to the article   *How heterogeneous thymic output and homeostatic proli
 
 ## Programming
 
-Under the Github account [Grumpfou](https://github.com/grumpfou/) I have created two main softwares:
+Under the Github account [Dessalles](https://github.com/dessalles/) I have created two main softwares:
 * **RFigure**: software created to as tool for my professional work. **RFigure** that allows to
 store data and instructions that allow the production of Matplotlib
 instructions. Sources and download are available on Github: [source
 code](https://github.com/grumpfou/RFigure). See also [this blog post]({% post_url 2019-04-04-About-RFigure %})
 
-* **AthenaWriter**: an open source softwares such as [AthenaWriter](https://github.com/grumpfou/AthenaWriter), a short stories word processor.
+* **AthenaWriter**: a short stories word processor.
+
+* **EventualMe**: a self-evaluation smatphone app that helps you measure and improve your forecasting skills. You record predictions about the future, assign them a confidence level, and later check whether reality matched your expectations. The goal is to give you feedback on how well you can anticipate events, so you can become more aware of your judgment and decision-making.
 
 ## Also…
 
